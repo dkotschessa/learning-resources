@@ -2,7 +2,7 @@
 
 | Platform                                          |                                     Free tier                                     | Deploy from GitHub | Deploy from GitLab | Features | Comments                 |
 | ------------------------------------------------- | :-------------------------------------------------------------------------------: | :----------------: | :----------------: | -------- | ------------------------ |
-| [Appliku](https://appliku.com)                    |                        [YES](https://appliku.com/#pricing)                        |        YES         |        YES         |          |                          |
+| [Appliku](https://appliku.com)                    |                        [YES](https://appliku.com/#pricing)                        |        YES         |        YES         |          |  Services are free but you must provide your own cloud server elsewhere                        |
 | [btn.dev](https://btn.dev)                        | [PLANNED](https://gist.github.com/carltongibson/638e6695ec990e288fa461f6b339e5d9) |                    |                    |          | Under development        |
 | [Deta](https://www.deta.sh)                       |                         [YES](https://deta.space/limits)                          |                    |                    |          |                          |
 | [DigitalOcean](https://www.digitalocean.com)      |                    [YES](https://www.digitalocean.com/pricing)                    |                    |                    |          |                          |
